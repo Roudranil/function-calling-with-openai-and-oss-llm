@@ -1,1 +1,6 @@
 longshotai
+.env
+tutorials
+**/__pycache__
+docs
+backup**
