@@ -40,3 +40,12 @@ Now, since there are $\approx 50$ rows, passing the entire table as one input qu
 
 Somewhere from yesterday evening, most models I tried from together.ai endpoints returned http errors, and due to shortage of time I was unable to investigate this issue further (see [here](src/html-to-json.ipynb#trying-with-mistral-and-llama)). Hence I was forced to use the `gpt` models from OpenAI. 
 
+Moreover since much of my experimentation was with function calling (and only models from openai are able to utilise this)... other models tend to return the content directly rather than generating it in the form of function call.
+
+## Querying by date
+
+Filtering by date or month or month is also possible as demonstrated [here](src/html-to-json.ipynb#querying-by-date). However as passing the entire table takes us dangerously close to the token limit I am unable to go for more complicated examples.
+
+**Why the entire input this time?**
+
+This is because for the model to be able to query based on dates it needs to know all the dates.
