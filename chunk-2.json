@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "weekend_end_date": "May 28, 2023",
+            "film": "The Little Mermaid",
+            "gross": "$95,578,040",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "June 4, 2023",
+            "film": "Spider-Man: Across the Spider-Verse",
+            "gross": "$120,663,589",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "June 11, 2023",
+            "film": "Transformers: Rise of the Beasts",
+            "gross": "$61,045,464",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "June 18, 2023",
+            "film": "The Flash",
+            "gross": "$55,043,679",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "June 25, 2023",
+            "film": "Spider-Man: Across the Spider-Verse",
+            "gross": "$19,003,633",
+            "notes": "Spider-Man: Across the Spider-Verse reclaimed the #1 spot in its fourth weekend of release, making it the first film since The Super Mario Bros. Movie to top the box office in its fourth weekend."
+        },
+        {
+            "weekend_end_date": "July 2, 2023",
+            "film": "Indiana Jones and the Dial of Destiny",
+            "gross": "$60,368,101",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "July 9, 2023",
+            "film": "Insidious: The Red Door",
+            "gross": "$33,013,036",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "July 16, 2023",
+            "film": "Mission: Impossible \u2013 Dead Reckoning Part One",
+            "gross": "$54,688,347",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "July 23, 2023",
+            "film": "Barbie",
+            "gross": "$162,022,044",
+            "notes": "Barbie broke The Hangover Part II's record ($85.9 million) for the highest weekend debut for a live-action comedy, Captain Marvel's record ($153 million) for the highest weekend debut for a female-directed film, Transformers: Revenge of the Fallen's record ($108.9 million) for highest opening for a film based on a toy, and The Dark Knight Rises' record ($160.8 million) for the highest weekend debut for a non-3D film. It currently has the highest weekend debut of 2023."
+        },
+        {
+            "weekend_end_date": "July 30, 2023",
+            "film": "Barbie",
+            "gross": "$93,011,602",
+            "notes": "Barbie had the biggest second weekend for a film since Avengers: Endgame ($147.4 million)."
+        }
+    ]
+}

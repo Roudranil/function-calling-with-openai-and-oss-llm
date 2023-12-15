@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "weekend_end_date": "August 6, 2023",
+            "film": "$53,008,647",
+            "gross": "",
+            "notes": "[32]"
+        },
+        {
+            "weekend_end_date": "August 13, 2023",
+            "film": "$33,833,294",
+            "gross": "Barbie became the first film since The Super Mario Bros. Movie to top the box office for four consecutive weekends.",
+            "notes": "[33]"
+        },
+        {
+            "weekend_end_date": "August 20, 2023",
+            "film": "Blue Beetle",
+            "gross": "$25,030,225",
+            "notes": "During the week, Oppenheimer surpassed Sing to become the highest grossing film to never hit #1."
+        },
+        {
+            "weekend_end_date": "August 27, 2023",
+            "film": "Gran Turismo",
+            "gross": "$17,410,552",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "September 3, 2023",
+            "film": "The Equalizer 3",
+            "gross": "$34,604,229",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "September 10, 2023",
+            "film": "The Nun II",
+            "gross": "$32,603,336",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "September 17, 2023",
+            "film": "The Nun II",
+            "gross": "$14,534,579",
+            "notes": "During the weekend, Oppenheimer's worldwide total ($912.7 million) surpassed Bohemian Rhapsody's total ($902 million) as the all-time highest-grossing biopic film."
+        },
+        {
+            "weekend_end_date": "September 24, 2023",
+            "film": "$8,550,110",
+            "gross": "",
+            "notes": "[39]"
+        },
+        {
+            "weekend_end_date": "October 1, 2023",
+            "film": "PAW Patrol: The Mighty Movie",
+            "gross": "$22,764,354",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "October 8, 2023",
+            "film": "The Exorcist: Believer",
+            "gross": "$26,497,600",
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "weekend_end_date": "March 19, 2023",
+            "film": "Shazam! Fury of the Gods",
+            "gross": "$30,111,158",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "March 26, 2023",
+            "film": "John Wick: Chapter 4",
+            "gross": "$73,817,950",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "April 2, 2023",
+            "film": "Dungeons & Dragons: Honor Among Thieves",
+            "gross": "$37,205,784",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "April 9, 2023",
+            "film": "The Super Mario Bros. Movie",
+            "gross": "$146,361,865",
+            "notes": "The Super Mario Bros. Movie broke Sonic the Hedgehog 2's record ($72.1 million) for the highest weekend debut for a video game adaptation as well as surpassing the former's lifetime gross ($190.9 million) to become the highest grossing video game adaptation of all time at the domestic box office. It also broke The Secret Life of Pets' record ($104.3 million) for the highest weekend debut for a non-sequel animated film. Its worldwide opening weekend ($377 million) broke Frozen II's record ($358.5 million) for the highest worldwide opening weekend for an animated film."
+        },
+        {
+            "weekend_end_date": "April 16, 2023",
+            "film": "The Super Mario Bros. Movie",
+            "gross": "$92,347,190",
+            "notes": "The Super Mario Bros. Movie broke Frozen II's record ($85.9 million) for the highest second weekend gross for an animated film. It also surpassed Warcraft to become the highest-grossing video game adaptation of all time at the global box office."
+        },
+        {
+            "weekend_end_date": "April 23, 2023",
+            "film": "The Super Mario Bros. Movie",
+            "gross": "$59,930,940",
+            "notes": "The Super Mario Bros. Movie broke Incredibles 2's record ($46.4 million) for the highest third weekend gross for an animated film."
+        },
+        {
+            "weekend_end_date": "April 30, 2023",
+            "film": "The Super Mario Bros. Movie",
+            "gross": "$40,835,805",
+            "notes": "The Super Mario Bros. Movie broke Incredibles 2's record ($28.4 million) for the highest fourth weekend gross for an animated film. It also became the first film since Avatar: The Way of Water to top the box office for four consecutive weekends and the first animated film to pass $1 billion at the global box office since Frozen II."
+        },
+        {
+            "weekend_end_date": "May 7, 2023",
+            "film": "Guardians of the Galaxy Vol. 3",
+            "gross": "$118,414,021",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "May 14, 2023",
+            "film": "Guardians of the Galaxy Vol. 3",
+            "gross": "$62,008,548",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "May 21, 2023",
+            "film": "Fast X",
+            "gross": "$67,017,410",
+            "notes": ""
+        }
+    ]
+}

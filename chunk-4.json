@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "weekend_end_date": "October 15, 2023",
+            "film": "Taylor Swift: The Eras Tour",
+            "gross": "$92,804,678",
+            "notes": "Taylor Swift: The Eras Tour broke Hannah Montana and Miley Cyrus: Best of Both Worlds Concert Tour's record ($31.1 million) for the highest weekend debut for a concert film. It became the highest-grossing concert film of all time worldwide as well, breaking Justin Bieber: Never Say Never's record ($99.0 million)."
+        },
+        {
+            "weekend_end_date": "October 22, 2023",
+            "film": "Taylor Swift: The Eras Tour",
+            "gross": "$33,209,039",
+            "notes": "Taylor Swift: The Eras Tour became the first concert film to top the box office for two weekends."
+        },
+        {
+            "weekend_end_date": "October 29, 2023",
+            "film": "Five Nights at Freddy's",
+            "gross": "$80,001,720",
+            "notes": "Simultaneously released on Peacock. Five Nights at Freddy's broke Puss in Boots' record ($34.1 million) for the highest Halloween opening weekend. It also broke Sonic The Hedgehog 2's record ($72.1 million) for the highest opening weekend for a live-action video game adaptation."
+        },
+        {
+            "weekend_end_date": "November 5, 2023",
+            "film": "Five Nights at Freddy's",
+            "gross": "$19,001,870",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "November 12, 2023",
+            "film": "The Marvels",
+            "gross": "$46,110,859",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "November 19, 2023",
+            "film": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "gross": "$44,607,143",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "November 26, 2023",
+            "film": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "gross": "$29,042,517",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "December 3, 2023",
+            "film": "Renaissance: A Film by Beyonc\u00e9",
+            "gross": "$21,801,216",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "December 10, 2023",
+            "film": "The Boy and the Heron",
+            "gross": "$13,011,722",
+            "notes": "The Boy and the Heron became the first foreign language film as well as the first Japanese animated film since Dragon Ball Super: Super Hero to reach #1 at the box office."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "weekend_end_date": "January 8, 2023",
+            "film": "Avatar: The Way of Water",
+            "gross": "$45,838,986",
+            "notes": "Black Panther: Wakanda Forever and Avatar: The Way of Water became the first two films to consecutively top the box office for four consecutive weekends each since The Hunger Games: Mockingjay \u2013 Part 2 and Star Wars: The Force Awakens in 2015 and 2016."
+        },
+        {
+            "weekend_end_date": "January 15, 2023",
+            "film": "Avatar: The Way of Water",
+            "gross": "$32,824,684",
+            "notes": "Black Panther: Wakanda Forever and Avatar: The Way of Water became the first two films to consecutively top the box office for five consecutive weekends each since Stakeout and Fatal Attraction in 1987."
+        },
+        {
+            "weekend_end_date": "January 22, 2023",
+            "film": "Avatar: The Way of Water",
+            "gross": "$20,133,106",
+            "notes": "Avatar: The Way of Water became the first film since Avatar to top the box office for six consecutive weekends. It also became the first film since Spider-Man: No Way Home to top the box office in its sixth week of release, as well as for six total weekends. During the weekend, the film surpassed $2 billion at the global box office."
+        },
+        {
+            "weekend_end_date": "January 29, 2023",
+            "film": "Avatar: The Way of Water",
+            "gross": "$15,968,532",
+            "notes": "Avatar: The Way of Water became the first film since Avatar to top the box office for seven consecutive weekends, as well as the first film since Spider-Man: No Way Home to top the box office in its seventh week of release."
+        },
+        {
+            "weekend_end_date": "February 5, 2023",
+            "film": "Knock at the Cabin",
+            "gross": "$14,127,170",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "February 12, 2023",
+            "film": "Magic Mike's Last Dance",
+            "gross": "$8,305,317",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "February 19, 2023",
+            "film": "Ant-Man and the Wasp: Quantumania",
+            "gross": "$106,109,650",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "February 26, 2023",
+            "film": "Ant-Man and the Wasp: Quantumania",
+            "gross": "$31,964,803",
+            "notes": ""
+        },
+        {
+            "weekend_end_date": "March 5, 2023",
+            "film": "Creed III",
+            "gross": "$58,370,007",
+            "notes": "Creed III broke Creed II's record ($35.2 million) for the highest weekend debut for a boxing film, as well as The Longest Yard's record ($47.6 million) for the highest weekend debut for a sports film."
+        },
+        {
+            "weekend_end_date": "March 12, 2023",
+            "film": "Scream VI",
+            "gross": "$44,447,270",
+            "notes": ""
+        }
+    ]
+}
