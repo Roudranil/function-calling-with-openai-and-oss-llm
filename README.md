@@ -1,5 +1,9 @@
 # Converting scraped data to data structure using LLM's
 
+## !! UPDATES !!
+
+**Please check the** *Trying with `mistral` and `llama` from [Anyscale](https://www.anyscale.com/)* **and the** *Trying with `mistral` and `llama` with prompts* **sections in** [src/html-to-json.ipynb](src/html-to-json.ipynb)
+
 ## Creating the environment
 
 Run the following code chunk to get started with the environment
@@ -17,8 +21,10 @@ To store the API keys create a .env file in the base directory, and place the co
 ```
 TOGETHERAI_API_KEY="<your api key>"
 OPENAI_API_KEY="<your api key>"
+ANYSCALE_API_KEY="<your api key>"
 URL="<your url>"
 ```
+edit: added api key from [Anyscale](https://anyscale.com)
 
 This will be loaded into the scripts while making the requests.
 
