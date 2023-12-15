@@ -4,9 +4,21 @@ from docstring_parser import parse
 
 
 class Schema(BaseModel):
+    """
+    Class which defines a custom Schema and wraps BaseModel of pydantic
+    Adds the from response method to BaseModel instances
+    """
+
     @classmethod
     @property
     def custom_schema(cls):
+        """
+        Defines a custom schema for all BaseModel instances
+
+        Changes
+        - Brings out the `title` variable to `name`
+        - Moves argument related details into `parameters`
+        """
         schema = cls.model_json_schema()
         docstring = parse(cls.__doc__ or "")
         parameters = {
@@ -40,6 +52,9 @@ class Schema(BaseModel):
 
     @classmethod
     def from_response(cls, chat, validation_context=None, strict: bool = None):
+        """
+        Utilises the custom schema generated and uses it ensure that the arguments of the function call are as intended
+        """
         message = chat.choices[0].message
         assert (
             message.function_call.name == cls.custom_schema["name"]
