@@ -49,3 +49,7 @@ Filtering by date or month or month is also possible as demonstrated [here](src/
 **Why the entire input this time?**
 
 This is because for the model to be able to query based on dates it needs to know all the dates.
+
+## Youtube video of running the code
+
+[Video link](https://youtu.be/gypcBK56VV8)
